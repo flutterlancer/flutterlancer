@@ -1,17 +1,15 @@
-<div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/itactivities-8233e.appspot.com/o/facebok%20cover.png?alt=media&token=401beb73-19f0-41aa-a46f-e902cb011c3b" align="center" style="width: 100%" />
-</div>  
+![x banner](https://github.com/user-attachments/assets/40b1d6a7-5e2e-4f8c-bb63-3f08703f0b3c)  
   
-- 🔭 I’m currently working on V Mobile App  
+
+- 🔭 I’m currently working on NewsLine  
   
 
 - 🌱 I’m currently learning...
   
 
-- ❓ Ask me anything related to Flutter, AI & Backend Technologies
+- ❓ Ask me anything related to Flutter, Mobile Application Development
   
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
