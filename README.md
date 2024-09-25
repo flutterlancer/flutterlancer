@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on NewsLine  
   
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently working as a `Full Stack Mobile Developer`...
   
 
 - ❓ Ask me anything related to Flutter, Mobile Application Development
